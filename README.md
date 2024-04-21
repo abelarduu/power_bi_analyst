@@ -15,7 +15,7 @@ Este projeto visa criar um relatório refinado com dados financeiros no Power BI
     <li>Criar uma segunda página para o relatório.</li>
 </ul>
 
-### Resultado
+## Resultado
   <img src="img/pag1.png" type="image/png" alt="Relatório pag1" width=500>
   <img src="img/pag2.png" type="image/png" alt="Relatório pag2" width=500>
 
